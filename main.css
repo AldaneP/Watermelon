@@ -1,0 +1,22 @@
+body {
+  font-family: Burbank Big Condensed Black;
+}
+
+p {
+  color: #858585;
+  padding-bottom: 2%;
+  width: 60%;
+  margin-left: 10%;
+}
+h1 {
+  text-align: center;
+  background-color: #ea5169;
+  width:100%;
+}
+
+img{
+  width: 33%;
+  padding-left: 1%;
+  Padding-right: 1%;
+  height: 250px;
+}
